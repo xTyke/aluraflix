@@ -1,11 +1,5 @@
 # Alura Flix
 
-Demonstração: 
-
-Vercel: 
-
- Projeto realizado para o challenge AluraFlix para o Oracle Next Education
-
 ## Sobre o Projeto
 
 Meu primeiro projeto construido do zero utilizando React.
@@ -24,9 +18,12 @@ Para a criação do projeto utilizei o VITE, para a estilização foi utilizado 
 
  Trello: https://trello.com/b/IKEVUOor/new-aluraflix-pt
 
-# Get Started
-In the project directory, you can run:
+# Iniciação do Projeto
+Estando na pasta do seu diretorio escreva no terminal:
+1 Passo:
+npm run dev
 
+2 Passo:
 npm start
 
 # React + Vite
